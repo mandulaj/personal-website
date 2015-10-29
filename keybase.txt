@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/zpiman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mandula.cz
+  * I am zpiman (https://keybase.io/zpiman) on keybase.
+  * I have a public key with fingerprint 4B4A FA90 1548 CEEB DF90  B903 4B45 5918 0D2C 4AF2
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101520bcd64ade54d8005b62fcfda283a1a25c9015929f828fdade2dbea1bcf69a10a",
+            "fingerprint": "4b4afa901548ceebdf90b9034b4559180d2c4af2",
+            "host": "keybase.io",
+            "key_id": "4b4559180d2c4af2",
+            "kid": "0101520bcd64ade54d8005b62fcfda283a1a25c9015929f828fdade2dbea1bcf69a10a",
+            "uid": "cd1257e644d4a9b16f55a16530a6ca00",
+            "username": "zpiman"
+        },
+        "service": {
+            "hostname": "mandula.cz",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1446128314,
+    "expire_in": 157680000,
+    "prev": "020e75fc77813c64b4aa59dcaad7033142f4df2031058169c9cb2562668b02ad",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.47
+Comment: https://keybase.io/crypto
+
+yMM6AnicrVJrTBxVGB1aoMqzJD6whUJGSmrZkjuzM7M7q6KJ0CiIaSMimi7LnZk7
+MOxjtrvLIixIpTzSF0qBhEDSRGiTIrTYILaiRYu1iLTdCDYtUQFt7cNHZQulYIp4
+h9R//vTXzT3fOeee77vf2cjVRFhQVsYbsZG6zDtBo2eaSohcevOAjxRUqYw0+Ugr
+WjmQTUJuj8WqSKSJBBSgWBoIosQxUEIsIxkBYAWOlkVZgrRRDylIsyKPWTzNy0ba
+iGEJ0ZKAICWIMsdDCkBSR8qKoxC5nC7F4cG2jMBAGWoqxigiJEgyDwQe6DHOsjxl
+BBItYgaNhUWqW1PgcAJ0o1RFxRi+WFbi/Qf/f85dsmInShTNGhDHMBIDeYHiZJaF
+FMfqAeRECIBGdCOXA9oRZpc7FTt0kJU6EmNeRUTaWLU+HtRxUSqxwVSxHOucLtWj
+iqoN40Uej9OkyTxlTo1XigTLAweLoDgkPEIs8CKXW1EdpInCTNGjaJYUw3AU7opi
+dCR6y6m4kEXRGKyBw30DoD2DvNpcaIAMrCwaDEZKL3LaP0CWl0QIJQPQYz0tM5JM
+Az0FWCPF8SIvCjTL0RxnFAANJVLraadDxd4GnBMWYk+3UuiAnhIXIiuHzuwIJoLC
+iNCQVdpuEWEPr/1349ZR0ctm06mglpHR8YbDSa7WpLFfRoMavwpknHgxd0/sZWT3
+x9zwx46nVYW3LhLRGzp+/rPv7FLh8tc1TZkPPfXodFt01+2pY7W702ZOt7+ZP5Wz
+bW1i40R3RvKe9Y8UH5Pef3W+tSeZUGtXD6iv7QhUoJMvLPc8OTGWLiT+dTzioxsJ
+061RuRfWBB+3mu/tGvUk1K1XB7J136TNW6j+hfNRi9nNuXk3YzaJ0xdv5U0eBTmT
++b05Suj5p31LZtukt6Z8oP22nyBAl+NcaeLJhvunzzGTjy1+cTjkx8lWPqcgId7z
+x+d37u4Jv+L6tuqJWEP+RuuhtoXqWxXfDSddNA8G71bZl6jE1KSo/pGt/L6Nf+/v
+th9JayyI255CGqLiaO5SQ6dv6/Vti7FLgWea9xIf2gvTOwZ++mRDj3VuLsJenflb
+Z6S34Mvnxy9XxazrfVx/3f96ccPN7b78IykHAhGX2osTpCHi2fi7zYET89lrfO9e
+cTYtf2D5vSUgz7rM/WnZVxeiV/nKmF2znqIUppr31b1snY+JsM9c3dQ7NldxKrxz
+bFi2zGTkvbM5xxtRe3Rq/7W2kC2o8mDgh76D1o+vvTLSfc92YWfNr7ZDWfF1NGdp
+mQXZ/X52MOt+8vfLg6Vhvq6O+tqSerMufTjOsfe5UFP0vpohPx//3tvcp2XiZ/Uj
+ffotjOqeYP8BUKS9fQ==
+=piwQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zpiman
+
+==================================================================
