@@ -1,0 +1,14 @@
+{
+  "name": "personal_website",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build\""
+  },
+  "author": "Jakub Mandula",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
