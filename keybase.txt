@@ -4,70 +4,48 @@ https://keybase.io/zpiman
 
 I hereby claim:
 
-  * I am an admin of http://mandula.cz
+  * I am an admin of https://mandula.cz
   * I am zpiman (https://keybase.io/zpiman) on keybase.
-  * I have a public key with fingerprint 30D2 09BE B302 1C13 AF9E  4315 CF22 1DD3 0B59 DA93
+  * I have a public key ASDez9sXl_oUroT-Nx0MD0Qbnszx1nkmMzWYo2TTGM5gbgo
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "client": {
-            "name": "keybase.io node.js client",
-            "version": "0.8.25"
-        },
-        "key": {
-            "eldest_kid": "0101f22067719c6e5199255091c406326b84b62e96f4f9b40042f93f070ca0e3c3980a",
-            "fingerprint": "30d209beb3021c13af9e4315cf221dd30b59da93",
-            "host": "keybase.io",
-            "key_id": "cf221dd30b59da93",
-            "kid": "0101f22067719c6e5199255091c406326b84b62e96f4f9b40042f93f070ca0e3c3980a",
-            "uid": "cd1257e644d4a9b16f55a16530a6ca00",
-            "username": "zpiman"
-        },
-        "service": {
-            "hostname": "mandula.cz",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0101f22067719c6e5199255091c406326b84b62e96f4f9b40042f93f070ca0e3c3980a",
+      "host": "keybase.io",
+      "kid": "0120decfdb1797fa14ae84fe371d0c0f441b9eccf1d67926333598a364d318ce606e0a",
+      "uid": "cd1257e644d4a9b16f55a16530a6ca00",
+      "username": "zpiman"
     },
-    "ctime": 1451903733,
-    "expire_in": 157680000,
-    "prev": "616128b92997fb89928620e89baaa69f64174decafa23f0a647954389275ae22",
-    "seqno": 29,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1516628601,
+      "hash": "bda0c99840546ad831896821c4b129d58f1ef777aaf0aa038cebede95b458aa6b80f93114132972de184d150f51089ec685a49288d2a81499b7e64981a452883",
+      "hash_meta": "3a2b0b5c4fa3d8c9f5fc3305d9f2397529dd8834bcfa7414502091724fde3a95",
+      "seqno": 1955231
+    },
+    "service": {
+      "hostname": "mandula.cz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.39"
+  },
+  "ctime": 1516628620,
+  "expire_in": 504576000,
+  "prev": "c3e80c2eb163f4fcefb6f1f9f4264826fbb3bc5880ed8d253b55fdbb73130acc",
+  "seqno": 69,
+  "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: GnuPG v1.4.12 (GNU/Linux)
-
-owGtUmlMXFUUHihCy1ZRIiUsgacU0WF8+3t3RhOqgIUG2yhCW43Tt9yBN4WZYebN
-UGaCJVFIoRnSiCKNFUQWSwGJWpe2dIlJmxQKKFtTAiOL1JAmIoxYgkt9r2KiiT+9
-v27O+c75vvOdcyJiiyYwYARJGAs7MNUQMLjEawrqctc8CG8VKxC9BxFKJGiR1Z+F
-K4WIHjkMK3jOAXWSNcliFaHO7EjaxGgRF7Q7JKtFQaE6VodTSKVWxavVsESEDtl4
-WBLVLIZiJhxHaYbBgEBDCgMApygUYAKJ0gRO8yzJ0zgEtIk0AZ5EURI3AcKEMqjA
-oZAQCMCinEJokixF0G6zS6pEhEBFHAU85AkUxwSM4EwAkgRGCQoXJooEylNA5ACh
-FBZbHfK/hkHuKzXel/cf+P9Zt/MvHhHDKQbSJCmSHOAx2kRRHEZTBMrRCh5VgQ5o
-3zTebZNKOYtqqRJzSQJUbVXn2MwrSdFZwukEt1Jns1tlq2AtUeLFsmzTq2VyhU3F
-lUPeuNnByEsWUbHwH6t7W48pUEGW1J4YqUyIEgxBaBF4xCbZoVFStotRDM2iylN5
-oEvpSWM0hrM8wAFgTDyruMLSOApZwHMcRwMTTWIMKUKBM3G4YgdHkwygSIIFOENx
-EMcRdagyixXR40ARyhUpPR1SkYWTnXaIVNYGxgdpAgI1wQ8EqtepCd324N8n++PT
-2++Js0vN3S+eu7XSFhFOsrN/wNb8zO1npIuTfYs96W9a0s52nHx/YWh4/432yeyE
-oNtRccfrf6l3e4INu9e8w/N7chaIiZNlHvPcM3ntS4y2IX56rCrtSul4x0gTYvc8
-tDVmrcl3XRP95OM/ByeDna2TbROy39efUlZ4vGc1ls/5oX0sRR8+vGU9Mkb3e+7w
-cxPvHb0dZ957M/fe6kFnhuaFu353SGFQVuLZM7FJJ0qbHy0Yct9xsk1FuOflzF3Y
-MXeOAbR+eH6jI2tgqrkyN+Ey2JN6Kv+xl6ZdrzLV21b2fT2g9V88sny6bLD244L+
-ANvr5bt9vUn4I3e16HJUfWr6a8VSt2z+PK+oyu/srp3P0Zhjy9OFLDrV0GnM9067
-G0bcyV11XzVuXea9WGuoNb0x3ThTM1332ZAvcrEz+9CVo8lPjMb3Fl795pXJ706N
-eX7t+e1al/3blJn1jLQg74HLvpXo0eQdw+GsuSLqDWp8w9t1a8481DUWcuNSRtmX
-ealxVd0f/ARvdmYfRPpc+zO9zjuNe+cufPJ95IZm6S1rzdG5kNNh/shjhrn1zISI
-h6nFwPFLfVO19c+nXWtxPVWTPxBzYXXeExV2fZeU+I6fu3r+i9nR6NSIeM2noSRO
-G2Z2rAxGtPALPvshcK60v6GluvqjycrOnp2JbYxhZB8f/+6zvb4/AQ==
-=nPrS
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3s/bF5f6FK6E/jcdDA9EG57M8dZ5JjM1mKNk0xjOYG4Kp3BheWxvYWTFA0F7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZjIyMDY3NzE5YzZlNTE5OTI1NTA5MWM0MDYzMjZiODRiNjJlOTZmNGY5YjQwMDQyZjkzZjA3MGNhMGUzYzM5ODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGVjZmRiMTc5N2ZhMTRhZTg0ZmUzNzFkMGMwZjQ0MWI5ZWNjZjFkNjc5MjYzMzM1OThhMzY0ZDMxOGNlNjA2ZTBhIiwidWlkIjoiY2QxMjU3ZTY0NGQ0YTliMTZmNTVhMTY1MzBhNmNhMDAiLCJ1c2VybmFtZSI6InpwaW1hbiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNjYyODYwMSwiaGFzaCI6ImJkYTBjOTk4NDA1NDZhZDgzMTg5NjgyMWM0YjEyOWQ1OGYxZWY3NzdhYWYwYWEwMzhjZWJlZGU5NWI0NThhYTZiODBmOTMxMTQxMzI5NzJkZTE4NGQxNTBmNTEwODllYzY4NWE0OTI4OGQyYTgxNDk5YjdlNjQ5ODFhNDUyODgzIiwiaGFzaF9tZXRhIjoiM2EyYjBiNWM0ZmEzZDhjOWY1ZmMzMzA1ZDlmMjM5NzUyOWRkODgzNGJjZmE3NDE0NTAyMDkxNzI0ZmRlM2E5NSIsInNlcW5vIjoxOTU1MjMxfSwic2VydmljZSI6eyJob3N0bmFtZSI6Im1hbmR1bGEuY3oiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOSJ9LCJjdGltZSI6MTUxNjYyODYyMCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJjM2U4MGMyZWIxNjNmNGZjZWZiNmYxZjlmNDI2NDgyNmZiYjNiYzU4ODBlZDhkMjUzYjU1ZmRiYjczMTMwYWNjIiwic2Vxbm8iOjY5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQDkME9dHyk0Tjh52AmURA6n+gKBL5+J8Fxc5Q+Xkho17qZ4ws6+AfKul6/ECvxJ+Z8C0fPAfEQSQQuMrnftiDgyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCA6c02/+U+1hfoSHYtIqf5/KRahlReTpNYvDYSez5lM0KN0YWfNAgKndmVyc2lvbgE=
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -75,3 +53,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/zpiman
 
 ==================================================================
+=================================================================
